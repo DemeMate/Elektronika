@@ -1,0 +1,4 @@
+Ellenálás: Áramkorlátozás és feszültségosztásra való
+Kondenzátor:Energiát tárolnak, kisülésük ideje kihasználható
+Félvezetők:
+Tranzisztor: Használhatjuk kapcsolásra vagy akár erősítésre is
